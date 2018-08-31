@@ -1,4 +1,4 @@
-# expand-discord-emojis
+# hide-discord-blocked-messages
 JavaScript bookmark to run that will stop all blocked messages from displaying.
 
 Copy the code from "block.js" into a bookmark's URL field and run it when starting Discord from the Web browser.
